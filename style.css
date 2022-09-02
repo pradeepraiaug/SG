@@ -1,8 +1,7 @@
 h1{
     color:yellow;
-    margin: top center;
+    margin-left: 680px;
     width: 300px;
-    border: 15px dotted black;
     padding: 5px;
 }
 h1{
@@ -10,9 +9,8 @@ h1{
 }
 h2{
     color: blueviolet;
-    margin-left: 680px;
+    margin-left: 700px;
     width: 300px;
-    border: 15px dotted black;
     padding: 5px;
 }
 
@@ -28,7 +26,7 @@ body{
      background-repeat: no-repeat;
      background-size: cover;
 
-    /* background-image: url(https://image.shutterstock.com/image-photo/kuala-lumpur-malaysia-august-25-260nw-1165039456.jpg); */
+ 
 }
 input{
     margin-left: 150px;
